@@ -32,7 +32,7 @@
   <h3 align="center">About me</h3>
     I'm 20 years old and always trying to b beter at what i do<br>
     I'm a computer science student of the <a href="https://al.unit.br">Group Tirantentes University at Maceió</a><br>
-    I'm currently studying vue.js(front end) and adonis.js(back end)<br>
+    I'm currently studying vue.js(nuxt), adonis.js, postgress and Node.js.<br>
 
 <h2 align="center">My contact</h2>
 <div align="center">
