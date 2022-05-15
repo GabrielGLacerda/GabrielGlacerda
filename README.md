@@ -42,7 +42,7 @@
   <h3 align="center">About me</h3>
     I'm 20 years old and always trying to be better at what I do 😎<br>
     I'm a computer science student of the <a href="https://al.unit.br">Group Tirantentes University at Maceió</a><br>
-    I'm currently working with vue.js(nuxt), adonis.js, postgress and Node.js.<br>
+    I'm currently working with vue.js(nuxt), nest.js, postgress and Node.js.<br>
 
 <h2 align="center">My contact</h2>
 <div align="center">
