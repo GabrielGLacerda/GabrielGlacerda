@@ -7,8 +7,13 @@
 
 -->
 
-![GabrielGLacerda Status](https://github-readme-stats.vercel.app/api?username=GabrielGLacerda&show_icons=true&theme=great-gatsby)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGLacerda&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![GabrielGLacerda Status](https://github-readme-stats.vercel.app/api?username=GabrielGLacerda&show_icons=true&theme=great-gatsby) -->
+<div align="center">
+<img height="200" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGLacerda&layout=compact&theme=great-gatsby">
+
+<img alt="gif" height="200" width="400" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
+</div>
+
 
 
 <div style="display: inline_block"><br>
