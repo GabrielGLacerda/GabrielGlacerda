@@ -45,15 +45,41 @@
 </div>
 <hr>
 
-  <h3 align="center">About me</h3>
-    I'm 20 years old and always trying to be better at what I do 😎<br>
-    I'm a computer science student of the <a href="https://al.unit.br">Group Tirantentes University at Maceió</a><br>
-    I'm currently working with react, nest.js, postgress and Node.js.<br>
+<img src="https://user-images.githubusercontent.com/65665304/171518394-42b139a1-2f27-461c-abb0-736688fefd21.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<h2 align="center">My contact</h2>
+<p align="left"> 
+  I am 20 years old, always trying to better at what i do 🐱‍👤
+</p>
+<p align="left">
+Student of computer Science at the <a href="https://al.unit.br">Group Tirantentes University at Maceió
+</p>
+<p align="left">
+  I'm currently working with react, nest.js, postgress and Node.js.
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/gabriel_gomes9090/">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-gomes-a646aa1b6/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+  </a>
+  <a href="mailto:gabrielglacerda@hotmail.com">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/Outlook-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=00FFFF"
+  </a>
+</p>
+
+<!-- <h2 align="center">My contact</h2>
 <div align="center">
   <a href="mailto:gabrielglacerda000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href=https://www.linkedin.com/in/gabriel-gomes-a646aa1b6/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:gabrielglacerda@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-</div>
+</div> -->
   
